@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'at',
+    'be',
+    'bg',
+    'cy',
+    'cz',
+    'de',
+    'dk',
+    'ee',
+    'es',
+    'fi',
+    'fr',
+    'gr',
+    'hr',
+    'hu',
+    'ie',
+    'it',
+    'lt',
+    'lu',
+    'lv',
+    'mt',
+    'nl',
+    'po',
+    'pt',
+    'ro',
+    'se',
+    'si',
+    'sk'
+];
